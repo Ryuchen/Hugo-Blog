@@ -32,7 +32,7 @@
     "masonry-layout": "^4.2.2",
     "mini-css-extract-plugin": "^0.9.0",
     "node-gyp": "^7.1.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "plyr": "^3.6.2",
     "popper.js": "^1.16.1",
